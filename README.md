@@ -1,3 +1,6 @@
-Front-End Developer focused on Next.js
+Front-End Developer focused on Next.js and modern web development.
 
-Recent project **[CJ Stats](https://cjstats.moamalalaa.com)** [Case Study](https://moamalalaa.com/projects/cj-stats), a statistics platform for the *Call of Duty* jumping community.
+### Featured Project
+[CJ Stats](https://cjstats.moamalalaa.com) · [Case Study](https://moamalalaa.com/projects/cj-stats)
+
+A gaming statistics platform built for the Call of Duty jumping community.
