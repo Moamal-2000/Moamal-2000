@@ -1,6 +1,4 @@
-Front-End Developer focused on Next.js and modern web development.
-
-**Portfolio:** [moamalalaa.com](https://moamalalaa.com)
+Front-End Developer focused on [Next.js](https://nextjs.org/) and modern web development. [Portfolio](https://moamalalaa.com)
 
 **Featured Project:** [CJ Stats](https://cjstats.moamalalaa.com) · [Case Study](https://moamalalaa.com/projects/cj-stats)
 
